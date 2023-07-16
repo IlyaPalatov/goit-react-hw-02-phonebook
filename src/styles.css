@@ -1,0 +1,59 @@
+.app-title {
+    font-size: 24px;
+    margin-bottom: 16px;
+}
+
+.app-subtitle {
+    font-size: 18px;
+    margin-top: 32px;
+}
+
+.contact-form {
+    margin-bottom: 16px;
+}
+
+.contact-form__input {
+    display: block;
+    margin-bottom: 8px;
+}
+
+.contact-form__button {
+    background-color: #4caf50;
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.contact-list {
+    list-style: none;
+    padding: 0;
+}
+
+.contact-list__item {
+    margin-bottom: 8px;
+}
+
+.contact-list__name {
+    font-weight: bold;
+}
+
+.contact-list__button {
+    background-color: #f44336;
+    color: white;
+    padding: 4px 8px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.filter {
+    display: block;
+    margin-top: 16px;
+}
+
+.filter__input {
+    display: block;
+    margin-top: 4px;
+}
